@@ -2,3 +2,13 @@ ol.recipe-list a {
     text-decoration: none;
     color: #000;
 }
+
+ol.recipe-list a:hover {
+    color:darkcyan;
+    transition: .3s;
+}
+
+body{
+    background:cornsilk;
+    font-family: sans-serif;
+}
